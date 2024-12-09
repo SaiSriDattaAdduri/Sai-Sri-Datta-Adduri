@@ -35,7 +35,7 @@ Ping me on LinkedIn @ ['ADDURI SAI SRI DATTA'](https://www.linkedin.com/in/addur
 
 ## 🛠 My Skills 🔧
 
-**Tools & Technologies**: Docker, Kubernetes, Jenkins, Prometheus, Asyncio, REST APIs, WebSocket, Airflow, YAML, Kafka, RabbitMQ, Tableu	
+**Tools & Technologies**: Docker, Kubernetes, Asyncio, REST APIs, WebSocket, YAML, Kafka, RabbitMQ, Tableu	
 
 **Programming**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Scipy), Java, JavaScript, C++, SQL, HTML, CSS, React (Hooks, Context, Redux), Node.js, Express.js
 
