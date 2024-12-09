@@ -25,7 +25,7 @@
 ---
 
 ### 🙋🏽‍♀ How to reach me: 
-Ping me on LinkedIn @ 'ADDURI SAI SRI DATTA'
+Ping me on LinkedIn @ ['ADDURI SAI SRI DATTA'](https://www.linkedin.com/in/adduri-sai-sri-datta/)
 
 📧: sridattadduri@gmail.com
 
