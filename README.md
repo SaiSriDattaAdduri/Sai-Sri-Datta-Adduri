@@ -1,4 +1,4 @@
-# Hi there, I'm Sai Sri Datta Adduri 👋
+<h1 style="color:orange;">Hi there, I'm Sai Sri Datta Adduri 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Backend+Developer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
